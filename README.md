@@ -38,7 +38,7 @@ A step by step series to help you get the code running on your local machine .
 **Clone the repository through your command line in C:/Users/YourName folder.**
 
 ```
-git clone ''
+git clone 'https://github.com/AemieJ/Effects.git'
 ```
 
 **Install all the required libraries for this project by the command used in Prerequisites.**
